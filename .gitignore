@@ -87,3 +87,17 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+#IntelliJ
+.idea/
+*.iml
+
+#datasets
+season_1/
+season_2/
+
+#result file
+results.csv
+
+#data file
+allData
